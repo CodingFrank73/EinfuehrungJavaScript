@@ -164,3 +164,14 @@ let mann = "Robert Wadlow ist der größte Mann der Welt : ";
 let grosse = "2,72m";
 alert(mann + grosse);
 console.log("-------------- Ende Lev1_4-----------------------");
+
+
+let wetter = "Regen";
+let himmel = "Wolken";
+const lichtgeschwindigkeit = "~300.000 km/s"
+
+// let allesZusammen = `Egal ob ${wetter} oder ${himmel}, die ${lichtgeschwindigkeit} fliegt mit`;
+
+// document.write(allesZusammen);
+console.log(`Egal ob ${wetter} oder ${himmel}, die ${lichtgeschwindigkeit} fliegt mit`);
+
